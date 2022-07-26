@@ -1,0 +1,53 @@
+body {
+      background-color: #383e42;
+    }
+
+    #title {
+      text-align: center;
+      color: #FFD700;
+    }
+
+    #subtitle {
+      text-align: center;
+      color: #FFD700;
+
+    }
+
+    #sub {
+      text-align: center;
+      color: #FFD700;
+    }
+
+    #all {
+      text-align: center;
+      color: #FFD700;
+    }
+
+    #picture {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+
+    p {
+      text-align: center;
+      color: black;
+      font-family: sans-serif;
+      border: 1px solid black;
+      padding: 20px;
+      background-color: #dcdde1;
+    }
+
+    a {
+      text-align: center;
+    }
+
+#insta{
+  width: 50px;
+  height: 50px;
+}
+
+#FB{
+  width: 50px;
+  height: 50px;
+}
