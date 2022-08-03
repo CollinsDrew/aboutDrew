@@ -89,4 +89,12 @@ function number(){
       }
     
 }
+
+
+
+}
+
+function getValue(){
+  let drewsValue = document.getElementById("drew").value;
+  document.getElementById("collins").innerHTML = drewsValue;
 }
