@@ -91,7 +91,7 @@ body {
 }
 
 .butt:hover {
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50;
   color: white;
 }
 
@@ -101,3 +101,7 @@ body {
   transform: translateY(4px);
 }
 
+.para{
+  background-color: silver;
+  
+}
